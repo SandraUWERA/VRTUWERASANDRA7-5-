@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 # Flask server URL
-server_url = "http://10.211.132.65:5000/submit"  # Replace with your Flask server's IP
+server_url = "http://https://vrtuwerasandra7-5.onrender.com/submit"  # Replace with your Flask server's IP
 
 def generate_sensor_data():
     """Generates random sensor data."""
